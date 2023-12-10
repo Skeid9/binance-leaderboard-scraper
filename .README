@@ -1,0 +1,5 @@
+This script is able to bypass the login authentication process
+and scrape positions from any trader on the Binance Leaderboard.
+
+Please contact me to get access.
+Email: skeid9@protonmail.com
